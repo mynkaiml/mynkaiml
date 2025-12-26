@@ -61,6 +61,7 @@
 - ML model building & data pipelines  
 - Competitive programming patterns (DP, graphs, trees)  
 - ML system optimization & deployment  
+- currently learning JAVA spring boot / JDBC / Rest api's
 
 ---
 
