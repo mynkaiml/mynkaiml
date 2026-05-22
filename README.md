@@ -1,13 +1,17 @@
-<h1 align="center">Hi, I'm Manvnedra 👋</h1>
-<h3 align="center">AI/ML & DSA Enthusiast | B.Tech II | Exploring Machine Learning</h3>
+<h1 align="center">Hi, I'm Manvendra 👋</h1>
+<h3 align="center">AI/ML Enthusiast • B.Tech 3rd Year • Exploring Deep Learning & Backend Development</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech (2nd Year)  
-- 🤖 Focused on **AI/ML** and **Data Structures & Algorithms (DSA)**  
-- 🔎 Exploring cybersecurity casually to expand my knowledge  
-- 🧠 Passionate about Linux, machine learning workflows, and efficient code design  
+
+I like building things with Python, breaking them accidentally, then pretending the fix was intentional.
+
+Currently exploring AI/ML, deep learning, and backend development through projects, experiments, and way too much debugging.
+
+Focused on neural networks, DSA, Linux workflows, and writing cleaner, more efficient code every day.
+
+I prefer learning by building real-world projects instead of collecting unfinished tutorial playlists like digital trophies.
 
 ---
 
@@ -18,7 +22,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
@@ -36,10 +40,10 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
 </p>
 
-### ⚙ Dev Tools & DSA
+### ⚙️ Dev Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ### 🗄 Databases
@@ -58,22 +62,25 @@
 ---
 
 ## 📚 Currently Learning
-- ML model building & data pipelines  
-- Competitive programming patterns (DP, graphs, trees)  
-- ML system optimization & deployment  
-- currently learning JAVA spring boot / JDBC / Rest api's
+
+- Machine Learning model building & data pipelines  
+- Competitive Programming (DP, Graphs, Trees)  
+- ML model optimization & deployment  
+- Java Spring Boot, JDBC & REST APIs  
 
 ---
 
-## 📈 Goals
-- Build real-world AI/ML projects  
-- Strengthen DSA for interviews & CP  
-- Contribute to open-source ML tools  
+## 🎯 Goals
+
+- Build impactful real-world AI/ML projects  
+- Strengthen DSA for interviews & competitive programming  
+- Contribute to open-source ML tools and projects  
 
 ---
 
 ## 📫 Connect With Me
-- Email: *singhchouhanmanvendra7@gmail.com*  
+
+- 📧 Email: **singhchouhanmanvendra7@gmail.com**
 
 ---
 
