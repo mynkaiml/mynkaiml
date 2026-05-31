@@ -1,87 +1,71 @@
 <h1 align="center">Hi, I'm Manvendra 👋</h1>
-<h3 align="center">AI/ML Enthusiast • B.Tech 3rd Year • Exploring Deep Learning & Backend Development</h3>
+
+<p align="center">
+AI/ML Enthusiast • B.Tech 3rd Year • Deep Learning & Backend Development
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I like building things with Python, breaking them accidentally, then pretending the fix was intentional.
-
-Currently exploring AI/ML, deep learning, and backend development through projects, experiments, and way too much debugging.
-
-Focused on neural networks, DSA, Linux workflows, and writing cleaner, more efficient code every day.
-
-I prefer learning by building real-world projects instead of collecting unfinished tutorial playlists like digital trophies.
+- Exploring Machine Learning, Deep Learning, and Backend Development
+- Building projects with Python, TensorFlow, and Scikit-Learn
+- Learning Neural Networks, DSA, and Linux workflows
+- Interested in AI applications and real-world problem solving
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🧠 AI / ML
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### 🧩 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000" />
-</p>
+### 💻 Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 ### 🌐 Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### ⚙️ Dev Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### 🗄 Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 💻 Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## 📚 Currently Learning
 
-- Machine Learning model building & data pipelines  
-- Competitive Programming (DP, Graphs, Trees)  
-- ML model optimization & deployment  
-- Java Spring Boot, JDBC & REST APIs  
+- Deep Learning with TensorFlow & Keras
+- Neural Networks from Scratch
+- Data Preprocessing & EDA
+- DSA (Graphs, Trees, DP)
+- Spring Boot & REST APIs
+- ML Model Deployment
 
 ---
 
 ## 🎯 Goals
 
-- Build impactful real-world AI/ML projects  
-- Strengthen DSA for interviews & competitive programming  
-- Contribute to open-source ML tools and projects  
+- Build production-ready AI/ML projects
+- Secure an AI/ML internship
+- Master Deep Learning fundamentals
+- Contribute to Open Source
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-- 📧 Email: **singhchouhanmanvendra7@gmail.com**
-
----
-
-⭐ Thanks for visiting my profile!
+📧 **singhchouhanmanvendra7@gmail.com**
