@@ -7,7 +7,7 @@
 - Exploring Machine Learning, Deep Learning, and Backend Development
 - Building projects with Python, TensorFlow, and Scikit-Learn
 - Learning Neural Networks, DSA, and Linux workflows
-- Interested in AI applications and real-world problem solving
+- Interested in AI applications and real-world problem solving ;)
 
 ---
 
