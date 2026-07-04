@@ -240,6 +240,6 @@ A long-term AI operating system that combines:
 
 ### ⭐ Thanks for visiting my profile!
 
-*"I don't just want to use AI. I want to understand it deeply enough to build intelligent systems that solve real-world problems."*
+*"I don't just want to use AI. I want to understand it deeply enough to build intelligent systems that solve real-world problems. ;("*
 
 </div>
