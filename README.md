@@ -167,9 +167,9 @@ A long-term AI operating system that combines:
 
 ✅ Machine Learning
 
-🚧 Deep Learning
+✅ Deep Learning
 
-⬜ Computer Vision
+🚧 Computer Vision
 
 ⬜ NLP
 
